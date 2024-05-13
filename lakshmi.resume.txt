@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Lakshmi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        header, section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #0b0b3b;
+        }
+        h2 {
+            border-bottom: 1px solid #666;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .company {
+            font-weight: bold;
+        }
+        .dates {
+            float: right;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lakshmi K R</h1>
+        <p>Email:lakshmi092003@gmail.com <br> Phone: 9035421668</p>
+    </header>
+    <section>
+        <h2>Objective</h2>
+        <p>To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.</p>
+    </section>
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>Bachelor of Computer Application<br> Nagarjuna College Of Management Studies,Chikkaballapura[CGPA:7.81]<br>
+                <span class="dates">2021-2024</span>
+            </li>
+            <li>PUC<br> BGS PU College,Chikkaballapura[70.00%]<br>
+                <span class="dates">2018-2020</span>
+            </li>
+            <li>SSLC<br>prakurthi vidhyanikethan school,[80%]<br>
+                <span class="dates">2017-2018</span>
+            </li>
+        </ul>
+    </section>
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>
+                <span>Basics of c</span><br>
+                <span>Basics of java</span><br>
+                <span>Basics of html</span><br>
+                <span>Basics of python</span><br>
+                <span> Basics of DBMS </span>
+            </li>
+            <li>
+                <h2>Languages Known</h2>
+                <span>English</span><br>
+                <span>Kannada</span><br>
+                <span>Telugu</span><br>
+        <h2>Personal Details</h2>        
+                <ul>
+                    <li>DOB:20-09-2003</li>
+                    <li>Marital Status:Single</li>
+                    <li>Nationality:Indian</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+</body>
+</html>
